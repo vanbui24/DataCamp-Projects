@@ -4,8 +4,6 @@ DataCamp projects allow you to apply the skills you have learned in DataCamp cou
 
 Solve real-world problems with guided and unguided projects.
 
-Guided Projects
-Follow step-by-step tasks to solve real-world problems. You’ll receive helpful feedback as you apply your new skills to reach the solution.
+Guided Projects: Follow step-by-step tasks to solve real-world problems. You’ll receive helpful feedback as you apply your new skills to reach the solution.
 
-Unguided Projects
-Solve open-ended data science problems without step-by-step tasks. If you get stuck, follow the live code-along video to see how our expert instructor finds one of the many possible solutions.
+Unguided Projects: Solve open-ended data science problems without step-by-step tasks. If you get stuck, follow the live code-along video to see how our expert instructor finds one of the many possible solutions.
